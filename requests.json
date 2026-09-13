@@ -1,0 +1,32 @@
+{
+  "requests": [
+    {
+      "id": 1787479252799.7444,
+      "ip": "127.0.0.1",
+      "gameName": "plz add geometry dash",
+      "timestamp": 1787479252798,
+      "status": "approved"
+    },
+    {
+      "id": 1787492741638.7507,
+      "ip": "79.160.193.87",
+      "gameName": "Roblox",
+      "timestamp": 1787492741637,
+      "status": "pending"
+    },
+    {
+      "id": 1787555853509.4712,
+      "ip": "82.147.33.189",
+      "gameName": "Geometry Dash",
+      "timestamp": 1787555853507,
+      "status": "ALREADY ADDED"
+    },
+    {
+      "id": 1787680134970.3718,
+      "ip": "176.11.1.166",
+      "gameName": "Among Us",
+      "timestamp": 1787680134969,
+      "status": "pending"
+    }
+  ]
+}
