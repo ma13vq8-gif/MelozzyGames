@@ -1,0 +1,729 @@
+{
+  "games": [
+    {
+      "_comment": "========== GAME 1: Take Care Of The Cat ==========",
+      "id": "take-care-of-the-cat-v051",
+      "name": "Take Care Of The Cat",
+      "description": "■ Meow. -Cat.\nWake up, doggy! TAKE CARE OF THE CAT is a short story about a dog... taking care of a cat!\nIt's so cold outside. Could the dog keep the fireplace on to keep the cat warm?\n\n■ Recommendations\nThis is a ‘late-night game’. Try playing it at night, with the lights off and a headset on, when everyone in your house is asleep. It's about atmosphere!\n\n■ Controls\nWalk - W A S D\nRun - Shift\nInteract - Left Mouse\nBark - Right Mouse",
+      "price": 0,
+      "fileSize": "311 MB",
+      "screenshot": "pqvZhD.png",
+      "tags": [
+        "Psychological Horror",
+        "Retro",
+        "indie",
+        "short",
+        "atmospheric",
+        "singleplayer"
+      ],
+      "releaseDate": "2026-08-22",
+      "downloads": 9,
+      "clicks": 27,
+      "totalStars": 12,
+      "totalVotes": 3,
+      "ratedIPs": []
+    },
+    {
+      "_comment": "========== GAME 2: Undertale Yellow ==========",
+      "id": "undertale-yellow-v-1-3-1",
+      "name": "Undertale Yellow",
+      "description": "Undertale Yellow is a free, fan-made turn-based RPG prequel to Toby Fox's Undertale. Released on December 9, 2023, you play as Clover, the human with the yellow soul of Justice, who falls into the Underground to find five missing children.\n\n■ Story and Setting\nThe Protagonist: Clover, a child wearing a cowboy hat and bandana, explores the Underground.\nThe Plot: Set before the events of the original game, Clover teams up with Flowey to navigate unfamiliar regions and reach King Asgore.\nNew Faces: Encounter entirely new monster characters, towns, and distinct areas like the Wild East.\n\n■ Gameplay and Features\nCombat Style: Combines turn-based combat and dodging mechanics with unique yellow soul abilities (like precise shooting).\nMultiple Routes: Features distinct playthrough paths—Pacifist, Neutral, and No Mercy—where your choices heavily affect the story and endings.",
+      "price": 0,
+      "fileSize": "231 MB",
+      "screenshot": "image_673957b0c9f10.png",
+      "tags": [
+        "mod",
+        "undertale",
+        "fangame",
+        "rpg",
+        "bullet-hell",
+        "undertale-yellow"
+      ],
+      "releaseDate": "2023-12-09",
+      "downloads": 5,
+      "clicks": 16,
+      "totalStars": 18,
+      "totalVotes": 4,
+      "ratedIPs": [
+        "2a01:799:1666:a500:a02b:1039:f5cc:2b6d"
+      ]
+    },
+    {
+      "_comment": "========== GAME 3: Poom ==========",
+      "id": "poom_1.9_windows",
+      "name": "Poom",
+      "description": "Mars base, Union Aerospace Corporation experiments opened a portal to Hell. You appear to be the last human, fight your way out!\n\nBeaming up the virtual feed from Mars takes about 20s, be patient while loading the battle simulator soldier.\nIf experiencing slowdowns, prefer desktop browser or beefy mobile.\n\n■ How to Play\nHTML player: click on game to enable mouse support (browser security)\nDesktop controls (recommended): automatically selected if mouse is detected\nMouse sensitivity control from controls menu\n\nAlternate controls schemes (without mouse):\nfrom title screen, go to controls menu to switch between control schemes\nprefer control scheme 2\n\nMobile menu controls: use left paddle to navigate, use up/down from right paddle to cancel/select",
+      "price": 0,
+      "fileSize": "1.25 MB",
+      "screenshot": "Screenshot 2026-08-22 232410.png",
+      "tags": [
+        "fps",
+        "retro",
+        "action",
+        "doom",
+        "pico-8",
+        "hell"
+      ],
+      "releaseDate": "2026-08-22",
+      "downloads": 58,
+      "clicks": 633,
+      "totalStars": 38,
+      "totalVotes": 9,
+      "ratedIPs": []
+    },
+    {
+      "_comment": "========== GAME 4: Foxo's Fun Schoolhouse ==========",
+      "id": "ffs-1-4-hf-win64",
+      "name": "Foxo's Fun Schoolhouse",
+      "description": "Something about this game doesn't seem very... normal. Maybe it's something inside the game that gives off the feeling? Foxo doesn't seem to be present here... but s̶͍̒̔͋̐ǫ̴̛͖̙̑̎͆̽̉̋m̴̳̅͑ẽ̶̹̯̲͋̔̍̇̋̈́̚o̷͔̰͕̽͑ͅņ̶̱̫̠͔̳̮̎̀͒̔̕̕e̶͍̣̺̪͙͔͗̋ͅ is there to take his place.\n\nThis version also had a feature containing 3̴̢͈̫̼̺̮̺̘̿͊̈͊͠ playable characters we already know, but they all seem to function similarly, except for a few minor changes.",
+      "price": 0,
+      "fileSize": "88.9 MB",
+      "screenshot": "njiGFO.png",
+      "tags": [
+        "psychological-horror",
+        "retro",
+        "indie",
+        "creepy",
+        "atmospheric",
+        "singleplayer"
+      ],
+      "releaseDate": "2026-08-23",
+      "downloads": 12,
+      "clicks": 48,
+      "totalStars": 35,
+      "totalVotes": 8,
+      "ratedIPs": [
+        "127.0.0.1"
+      ]
+    },
+    {
+      "_comment": "========== GAME 5: Sonic Time Twisted ==========",
+      "id": "sonic-time-twisted-1-1-2-windows",
+      "name": "Sonic Time Twisted",
+      "description": "Sonic Time Twisted is a Sonic the Hedgehog fan game modeled after Sonic CD and Sonic 3 & Knuckles.\n\n■ Features\n• 28 Acts to explore\n• 8 Original Zones\n• 10 Bosses to fight\n• 6 elemental shields including 3 all new ones\n• 360 physics extremely close to the Genesis/MegaDrive Sonic Games\n• 3 Playable Characters: Sonic, Tails and Knuckles\n• 14 3D Special Stages\n• Time Travel between the Future and Past",
+      "price": 0,
+      "fileSize": "91.2 MB",
+      "screenshot": "L1ZXqr.png",
+      "tags": [
+        "fangame",
+        "sonic",
+        "platformer",
+        "retro",
+        "action",
+        "adventure"
+      ],
+      "releaseDate": "2026-08-23",
+      "downloads": 5,
+      "clicks": 34,
+      "totalStars": 15,
+      "totalVotes": 4,
+      "ratedIPs": [
+        "82.147.33.189"
+      ]
+    },
+    {
+      "_comment": "========== GAME 6: Bloodmoney ==========",
+      "id": "bloodmoney",
+      "name": "Bloodmoney",
+      "description": "HOW FAR WOULD YOU GO FOR MONEY?\n\nYou're struck with a serious condition and the only treatment available is an expensive operation. $25,000, to be exact. How are you going to get that money in time? It seems hopeless. Dire, even.\n\nBut then, BOOM! THERE HE IS! THERE IS HARVEY HARVINGTON! IN A STALL ON THE SIDE OF THE ROAD! $1 IN EXCHANGE FOR JUST ONE CLICK! THAT'S THE DEAL OF A LIFETIME!\n\n'Really?' YES! 'How much will he give me?' AS MUCH AS YOU CAN CLICK HIM FOR! 'Can he give me more?' YEAH~!\n\nSure, $1 per click is good, but how about $2? $4? $8? All you need to do is hurt him! Needles, hammers, scissors, whatever! The more pain you inflict on him, the more money you'll get! The question now isn't 'how much will he give you' so much as it is 'how much can I make him fork over?'! The only limit is your sanity, as well as Harvey's life force!\n\n🖱️ Itch.io: https://shroomychrist-studios.itch.io/bloodmoney",
+      "price": 0,
+      "fileSize": "291 MB",
+      "screenshot": "86aVEo.png",
+      "tags": [
+        "reupload",
+        "horror",
+        "psychological",
+        "clicker",
+        "indie",
+        "gore"
+      ],
+      "releaseDate": "2026-08-23",
+      "downloads": 4,
+      "clicks": 16,
+      "totalStars": 2,
+      "totalVotes": 1,
+      "ratedIPs": [
+        "82.147.33.189"
+      ]
+    },
+    {
+      "_comment": "========== GAME 7: HUMAN EXPENDITURE PROGRAM ==========",
+      "id": "human-expenditure-program",
+      "name": "HUMAN EXPENDITURE PROGRAM",
+      "description": "OWN YOUR VERY OWN HARVEY HARVINGTON TODAY!\n\nHave you every wanted to own your own Harvey? Inside the Human Expenditure Program, you're the one with full control of Harvey Harvington and his precious little life. Feed him, play with him, pet him, and love him like if he was your own dear pet! Best of all, you get PAID!\n\nBut things can't always be that simple. You remember what you did, didn't you? What you've done to Harvey. You know very well you can't undo what you've done. But it's all good if he doesn't remember, isn't it? Best make sure he forgets.\n\nBesides that little hiccup, he's YOURS!\n\nCOMES WITH:\n\nTWO ENDINGS!\nFive exhilarating minigames!\nThe feeling of wanting a divorce!\nLOTS MORE MONEY!\nThe burden of responsibility, caring after a real living human being with thoughts and emotions inside a computer program!\nWHAT ARE YOU WAITING FOR? Boot up the program and become the owner of YOUR personal Harvey!\n\n🖱️ Itch.io: https://shroomychrist-studios.itch.io/human-expenditure-program",
+      "price": 0,
+      "fileSize": "171 MB",
+      "screenshot": "udgZsv.png",
+      "tags": [
+        "reupload",
+        "drama",
+        "horror",
+        "psychological-horror",
+        "sad",
+        "suspense",
+        "thriller",
+        "virtual-pet"
+      ],
+      "releaseDate": "2026-08-23",
+      "downloads": 6,
+      "clicks": 21,
+      "totalStars": 16,
+      "totalVotes": 4,
+      "ratedIPs": [
+        "127.0.0.1"
+      ]
+    },
+    {
+      "_comment": "========== GAME 8: ClassicUs ==========",
+      "id": "classic-us-windows-2026-8-1",
+      "name": "ClassicUs",
+      "description": "ClassicUs is a project that aims to refine the classic, old feeling of Among Us from 2020-2021, and it is based on an older version of the game that is different.\n\n■ Lobby Hosting\nThe game allows you to play online with others and there is NO timer of Lobby closing down due to inactivity.\n\n■ Up to 100 players in a lobby??????\nSpeaking of playing online with others, you can play up to 100 players!\n\n■ How many languages does the game support?\n• English\n• Portuguese\n• Argentinian Spanish\n• Mexican Spanish\n• Spain Spanish\n• Dutch\n• German\n• Russian\n• Swedish\n• Italian\n• Polish\n• Turkish\n• Vietnamese\n• French\n• Korean\n• Japanese\n\n■ What platforms will the game support?\nCurrently it will support Only Android, Windows, Linux and on the WEB! which will be available to play there on our website: https://auantidater.com/\n\nFor iOS users, sorry but you gotta wait a bit until we find a workaround due to the whole sideloading mess outside of EU.\n\n■ Where do I report issues & bugs?\nYou can report issues in our official discord server: https://discord.gg/auad\n\n■ How will I report cheaters & hackers or bad actors?\nThe game will have no quickchat restrictions or age verifications, but that does not mean that you cannot be banned. You can still be banned from the game. Obey the TOS and you'll be fine, you'll see it when you boot the game up for the first time, you can report users in the kick button menu: that will be sent to staffs to look at: & staffs can have the immunity to not get banned & kicked off of a lobby and ban a player in realtime once found the TOS breakers with hacking, cheating or bad behaviour, please behave as staffs have the rights to be immune to any kick & bans.\n\nThanks for reading! I hope you understood!\n\nas always you should always check our social media out:\n• The AUAD Website: https://auantidater.com/\n• AUAD Discord Server: https://discord.gg/auad\n• Our Youtube Channel: https://www.youtube.com/@RealAUAD\n• Our Twitter: https://x.com/RealAUAD\n• Our KO-FI Donation: https://ko-fi.com/auad",
+      "price": 0,
+      "fileSize": "239 MB",
+      "screenshot": "YfIzUv.png",
+      "tags": [
+        "classic",
+        "classic-us",
+        "Co-op",
+        "deception",
+        "Indie",
+        "Multiplayer",
+        "online",
+        "party-game",
+        "social-deduction"
+      ],
+      "releaseDate": "2026-08-23",
+      "downloads": 58,
+      "clicks": 1129,
+      "totalStars": 56,
+      "totalVotes": 12,
+      "ratedIPs": [
+        "127.0.0.1",
+        "79.160.193.87",
+        "82.147.33.189"
+      ]
+    },
+    {
+      "_comment": "========== GAME 9: The Henry Stickmin Collection ==========",
+      "id": "henry-stickmin-collection",
+      "name": "The Henry Stickmin Collection",
+      "description": "The Henry Stickmin Collection is a Newgrounds choose-your-own-path classic, reborn and revitalized. This 6-game epic culminates in multiple entirely canon, extremely different endings. Each step of the journey has you choose from options such as a Teleporter or calling in your buddy Charles to help you out. Correct choices will move the story forward, but incorrect choices lead to a fail.",
+      "price": 0,
+      "fileSize": "414 MB",
+      "screenshot": "H3sdk.png",
+      "tags": [
+        "rip",
+        "2DCasual",
+        "Story Rich",
+        "Parody",
+        "Heist",
+        "Great Soundtrack",
+        "Atmospheric",
+        "Action"
+      ],
+      "releaseDate": "2026-08-23",
+      "downloads": 12,
+      "clicks": 57,
+      "totalStars": 13,
+      "totalVotes": 3,
+      "ratedIPs": [
+        "82.147.33.189"
+      ]
+    },
+    {
+      "_comment": "========== GAME 10: Beso's Shawarma ==========",
+      "id": "besos-shawarma",
+      "name": "Beso's Shawarma",
+      "description": "Step into a hauntingly surreal experience where a simple late-night shawarma run spirals into a night of psychological tension. This first-person narrative game immerses you in the eerie streets of Tbilisi, Georgia, using a retro PSX aesthetic that evokes a sense of nostalgia while amplifying the game's unsettling mood. As you traverse dimly lit alleys and claustrophobic stairwells, you encounter enigmatic figures whose intentions range from friendly to sinister, each interaction shaping your journey.\n\nWith an emphasis on atmosphere and dialogue over combat, this compact horror experience can be completed in just twenty-five minutes yet encourages multiple playthroughs to explore its alternative endings and layered narrative. Its minimalist interface and floating text dialogue further enhance the immersive quality, making each decision matter. This game is perfect for fans of psychological horror looking for a unique storytelling experience.",
+      "price": 0,
+      "fileSize": "328 MB",
+      "screenshot": "P4sql.png",
+      "tags": [
+        "Psychological Horror",
+        "Horror",
+        "Walking Simulator",
+        "Atmospheric",
+        "Choose Your Own Adventure",
+        "Interactive Fiction",
+        "PSX Style",
+        "Story Rich"
+      ],
+      "releaseDate": "2026-08-23",
+      "downloads": 2,
+      "clicks": 8,
+      "totalStars": 0,
+      "totalVotes": 0,
+      "ratedIPs": []
+    },
+    {
+      "_comment": "========== GAME 11: That's Not My Neighbor ==========",
+      "id": "thats-not-my-neighbor",
+      "name": "That's Not My Neighbor",
+      "description": "The Doppelganger Detection Department (D.D.D.) needs you!\n\nThere is a vacancy for the doorman position in your building and since you need the money and can't find a job you have no choice.\n\nIt's 1955 and for unknow reasons doppelgangers are more common than normal, so the D.D.D. has taken action on the matter.\n\nYour job will be to allow or deny the entry of the subjects who request entry to the building, it seems easy, but be careful, you can't overlook any detail because you could be food for doppelgangers.\n\n🖱️ Itch.io: https://nachogames.itch.io/thats-not-my-neighbor",
+      "price": 0,
+      "fileSize": "530 MB",
+      "screenshot": "227KOj.png",
+      "tags": [
+        "reupload",
+        "horror",
+        "psychological-horror",
+        "indie",
+        "atmospheric",
+        "suspense",
+        "singleplayer",
+        "retro",
+        "survival-horror"
+      ],
+      "releaseDate": "2026-08-23",
+      "downloads": 7,
+      "clicks": 19,
+      "totalStars": 14,
+      "totalVotes": 3,
+      "ratedIPs": [
+        "127.0.0.1",
+        "82.147.33.189",
+        "62.209.115.113"
+      ]
+    },
+    {
+      "_comment": "========== GAME 12: Stick It To The Stickman ==========",
+      "id": "stick-it-to-the-stick-man-windows-officetower",
+      "name": "Stick It To The Stickman",
+      "description": "REASONS TO PLAY:\nIt's got fly kicks, groin kicks, machineguns, glue guns, ninja stars, bicycle kicks, spinning punches, chainsaws, headbutts, coffee drinking and explosive diarrhea (and other tasteful jokes about working in close proximity to stinky people).\n\n■ GAMEPLAY\nA physics-brawler where you fight stick men to get your job back. Fire them or be fired yourself!\n\nPLUS! Once you've finished the main build, you can try the 'Neurolink Demo' and harness your mind powers to dominate other test subjects.\n\n■ GENRE\nA rogue-lite where you keep learning new (and more powerful) moves.\n\n■ STORY\nThis is just another day at the office.\n\n🖱️ Itch.io: https://callofthevoid.itch.io/stick-it-to-the-stick-man",
+      "price": 0,
+      "fileSize": "302 MB",
+      "screenshot": "DR06vu.png",
+      "tags": [
+        "reupload",
+        "action",
+        "brawler",
+        "comedy",
+        "physics",
+        "roguelite",
+        "stickman",
+        "office",
+        "indie"
+      ],
+      "releaseDate": "2026-08-23",
+      "downloads": 21,
+      "clicks": 82,
+      "totalStars": 20,
+      "totalVotes": 5,
+      "ratedIPs": [
+        "127.0.0.1",
+        "79.160.193.87"
+      ]
+    },
+    {
+      "_comment": "========== GAME 13: OutOfCtrl ==========",
+      "id": "out-of-ctrl-v1",
+      "name": "OutOfCtrl",
+      "description": "A GMTK Game Jam 2020 submission.\n\nA 2D top-down puzzle game inspired by Baba is You and STRANGE KEYWORLD.\n\nPush key blocks into their slots to gain control of the qwert. Regain Ctrl (and possible other keys) to get to the get through to the end. There are fourteen levels total. Can you get through them all?",
+      "price": 0,
+      "fileSize": "18.8 MB",
+      "screenshot": "YXsL7e.png",
+      "tags": [
+        "2D",
+        "Casual",
+        "Cute",
+        "Minimalist",
+        "Short",
+        "puzzle"
+      ],
+      "releaseDate": "2026-08-22",
+      "downloads": 0,
+      "clicks": 9,
+      "totalStars": 0,
+      "totalVotes": 0,
+      "ratedIPs": []
+    },
+    {
+      "_comment": "========== GAME 14: Plants vs Zombies Replanted ==========",
+      "id": "pvz-replanted",
+      "name": "Plants vs Zombies Replanted",
+      "description": "Plants vs Zombies Replanted brings back the beloved garden defense gameplay with new twists, improved visuals, and all the charm of the original.\n\nDefend your home from hordes of hilarious undead by planting an army of botanical warriors. Use sunflowers to generate sunlight, peashooters to blast zombies, and unlock an arsenal of unique plants to counter the ever-growing zombie threat.\n\nWhether you're a veteran gardener or a first-time planter, this reimagined classic delivers the same addictive strategy gameplay that made the original a timeless favorite.\n\n■ Features\n• Classic tower defense gameplay with a fresh coat of paint\n• All your favorite plants from the original game\n• New challenges and zombie types to test your strategy\n• Simple to learn, hard to master\n• Hours of addictive gameplay",
+      "price": 0,
+      "fileSize": "1.3 GB",
+      "screenshot": "J3vuP.png",
+      "tags": [
+        "rip",
+        "arcade",
+        "strategy",
+        "tower-defense",
+        "casual",
+        "classic",
+        "zombies",
+        "plants",
+        "singleplayer"
+      ],
+      "releaseDate": "2026-08-24",
+      "downloads": 2,
+      "clicks": 10,
+      "totalStars": 4,
+      "totalVotes": 1,
+      "ratedIPs": [
+        "82.147.33.189"
+      ]
+    },
+    {
+      "_comment": "========== GAME 15: Security Booth: Director's Cut ==========",
+      "id": "security-booth-directors-cut-v1-0-6",
+      "name": "Security Booth: Director's Cut",
+      "description": "Step into the shoes of a security guard during a peculiar night at a secretive science lab in 1996, where the seemingly mundane task of vetting drivers takes a dark turn. This indie horror game mixes elements of simulation and tension as you ensure only authorized personnel gain access to Nova Nexus. Your core gameplay revolves around checking license plates against an employee register while navigating the eerie atmosphere and unexpected events that unfold.\n\nThe Director's Cut version enhances the experience with randomized vehicles for unpredictable encounters, an expanded aspect ratio eliminating the black bars, and a total of seven unique endings to explore. Players can also dive deeper into the lore through collectible Nexus Archives Tapes, which unlock as you progress. With controller support added, this version caters to a wider range of players.\n\nIt's a must-try for horror enthusiasts and fans of narrative-driven games looking for a fresh take on the security genre.",
+      "price": 0,
+      "fileSize": "443 MB",
+      "screenshot": "CZiHp8.png",
+      "tags": [
+        "Psychological Horror",
+        "PSX",
+        "Retro",
+        "First-Person",
+        "3D",
+        "Low-poly",
+        "Creepy",
+        "Short",
+        "Singleplayer"
+      ],
+      "releaseDate": "2026-08-26",
+      "downloads": 1,
+      "clicks": 5,
+      "totalStars": 3,
+      "totalVotes": 1,
+      "ratedIPs": [
+        "127.0.0.1"
+      ]
+    },
+    {
+      "_comment": "========== GAME 16: Portal ==========",
+      "id": "portal",
+      "name": "Portal",
+      "description": "Portal is a first-person puzzle-platform video game developed and published by Valve. The game was released in 2007 as part of the game compilation The Orange Box for Windows and Xbox 360; a separate version for PlayStation 3 was released in 2008. In Portal, players solve puzzles by teleporting the player's character and simple objects using the \"Aperture Science Handheld Portal Device\", a device that can create inter-spatial portals between two flat planes.",
+      "price": 0,
+      "fileSize": "3.15 GB",
+      "screenshot": "h3Ae1.png",
+      "tags": [
+        "rip",
+        "Puzzle",
+        "First-Person",
+        "Singleplayer",
+        "Indie",
+        "Valve",
+        "Portal",
+        "3D",
+        "Low-poly",
+        "Physics",
+        "Sci-fi"
+      ],
+      "releaseDate": "2026-08-23",
+      "downloads": 2,
+      "clicks": 18,
+      "totalStars": 5,
+      "totalVotes": 1,
+      "ratedIPs": [
+        "88.94.195.19"
+      ]
+    },
+    {
+      "_comment": "========== GAME 17: Geometry Dash ==========",
+      "id": "geometry-dash",
+      "name": "Geometry Dash",
+      "description": "Geometry Dash is a platformer video game developed and published by RobTop Games. The game was released in 2013 for iOS and Android; a version for Windows was released in 2014. In Geometry Dash, players control a square character that automatically runs through a procedurally generated level, jumping over obstacles and navigating through challenging environments.",
+      "price": 280000,
+      "fileSize": "310 MB",
+      "screenshot": "Ge0M3.png",
+      "tags": [
+        "rip",
+        "Platformer",
+        "Singleplayer",
+        "Indie",
+        "RobTop Games",
+        "Geometry",
+        "Dash"
+      ],
+      "releaseDate": "2026-08-24",
+      "downloads": 9,
+      "clicks": 32,
+      "totalStars": 0,
+      "totalVotes": 0,
+      "ratedIPs": []
+    },
+    {
+      "_comment": "========== APP 1: Spotify ==========",
+      "id": "spotifysetup",
+      "name": "Spotify",
+      "description": "Spotify is a digital music service that gives you access to millions of songs and podcasts.",
+      "price": 0,
+      "fileSize": "1.02 MB",
+      "screenshot": "Sp0T1.png",
+      "tags": [
+        "tool",
+        "productivity",
+        "utility",
+        "music",
+        "streaming",
+        "audio",
+        "entertainment",
+        "spotify"
+      ],
+      "releaseDate": "2026-08-23",
+      "downloads": 2,
+      "clicks": 8,
+      "totalStars": 6,
+      "totalVotes": 2,
+      "ratedIPs": [
+        "127.0.0.1",
+        "82.147.33.189"
+      ]
+    },
+    {
+      "_comment": "========== APP 2: Opera GX ==========",
+      "id": "operasetup",
+      "name": "Opera GX",
+      "description": "Opera GX is a specialized web browser designed specifically for gamers to optimize computer performance while playing games. It offers features like CPU, RAM, and network bandwidth limiters, as well as a built-in ad blocker and VPN for enhanced privacy and security.",
+      "price": 0,
+      "fileSize": "3.10 MB",
+      "screenshot": "Op0R1.png",
+      "tags": [
+        "tool",
+        "productivity",
+        "utility",
+        "browser",
+        "gaming",
+        "performance",
+        "entertainment",
+        "opera-gx"
+      ],
+      "releaseDate": "2026-08-23",
+      "downloads": 1,
+      "clicks": 12,
+      "totalStars": 5,
+      "totalVotes": 1,
+      "ratedIPs": [
+        "127.0.0.1"
+      ]
+    },
+    {
+      "_comment": "========== APP 3: Itch.io ==========",
+      "id": "itch-setup",
+      "name": "Itch.io",
+      "description": "Itch.io is a platform for indie games and digital art. It allows developers to upload their games and sell them directly to players. Itch.io also provides a desktop application that allows users to manage their game library, download updates, and launch games from a single interface. why get this app? because it allows you to download and play games from itch.io without having to use a web browser, and it also provides a convenient way to keep your games up to date.",
+      "price": 0,
+      "fileSize": "6.48 MB",
+      "screenshot": "It0C1.png",
+      "tags": [
+        "tool",
+        "productivity",
+        "utility",
+        "platform",
+        "gaming",
+        "digital-art",
+        "entertainment",
+        "itch-io",
+        "game-library"
+      ],
+      "releaseDate": "2026-08-23",
+      "downloads": 2,
+      "clicks": 9,
+      "totalStars": 10,
+      "totalVotes": 2,
+      "ratedIPs": [
+        "127.0.0.1",
+        "176.11.0.116"
+      ]
+    },
+    {
+      "_comment": "========== GAME 18: A Quiet Place ==========",
+      "id": "a-quiet-place",
+      "name": "A Quiet Place",
+      "description": "A short, psychological  horror experience where you, player, quickly age to see how's your family doing now. ",
+      "price": 0,
+      "fileSize": "58 MB",
+      "screenshot": "AQP01.png",
+      "tags": [
+        "game",
+        "horror",
+        "survival",
+        "multiplayer",
+        "atmospheric",
+        "Atmospheric",
+        "creepy",
+        "Creepy",
+        "indie",
+        "Indie",
+        "Psychological Horror",
+        "Story Rich",
+        "3D",
+        "fangame",
+        "paper-3d"
+      ],
+      "releaseDate": "2026-08-25",
+      "downloads": 1,
+      "clicks": 16,
+      "totalStars": 5,
+      "totalVotes": 1,
+      "ratedIPs": [
+        "127.0.0.1"
+      ]
+    },
+    {
+      "_comment": "========== GAME 19: Super Mario 127 ==========",
+      "id": "sm127-windows",
+      "name": "Super Mario 127",
+      "description": "Super Mario 127 is a fan sequel to Super Mario 63, which combines elements from multiple different 3D Mario games into a 2D experience. It also includes a powerful level editor, alongside online level sharing and in the future, a fully original campaign.\n\nThe current version of the game includes a whopping 59 Shine Sprites and 69 Star Coins worth of built-in levels, and allows you to download hundreds of high quality levels from Level Share Square, directly in-game!\nNote: Having performance issues? Try the downloadable version instead!\n\nJoin the discord server to share custom levels, participate in Level Designer Contests, give feedback, and more! https://discord.gg/qgfErCy",
+      "price": 0,
+      "fileSize": "165 MB",
+      "screenshot": "SM4r1o.png",
+      "tags": [
+        "game",
+        "platformer",
+        "adventure",
+        "indie",
+        "fan-game",
+        "2D",
+        "Mario",
+        "arcade"
+      ],
+      "releaseDate": "2026-08-26",
+      "downloads": 54,
+      "clicks": 726,
+      "totalStars": 179,
+      "totalVotes": 45,
+      "ratedIPs": [
+        "79.160.193.87"
+      ]
+    },
+    {
+      "_comment": "========== GAME 20: Baldi's Basics Classic Remastered ==========",
+      "id": "baldisbasicsremastered",
+      "name": "Baldi's Basics Classic Remastered",
+      "description": "Welcome to Baldi's Basics in Education and Learning! Baldi's Basics Classic Remastered is a survival horror stealth game that parodies cheap 90's edutainment and never takes itself too seriously. Explore Baldi's schoolhouse and try to find all 7 notebooks, but don't get caught by Baldi! He wants to play hide-and-seek, but something... Isn't right. Luckily you have a slew of items you can find and use to your advantage, but Baldi also has friends who can cause problems for you if you're not careful. And remember, Baldi hears every noise you make, so do what you can to stay quiet! This is the ultimate version of Baldi's Basics Classic! Featuring three games in one, gameplay improvements, a more authentic art style, accessibility improvements, and brand new ways to play!",
+      "price": 0,
+      "fileSize": "200 MB",
+      "screenshot": "qvYwvt.png",
+      "tags": [
+        "horror",
+        "survival",
+        "stealth",
+        "parody",
+        "edutainment",
+        "indie",
+        "singleplayer",
+        "game"
+      ],
+      "releaseDate": "2026-08-31",
+      "downloads": 1,
+      "clicks": 2,
+      "totalStars": 5,
+      "totalVotes": 1,
+      "ratedIPs": [
+        "82.147.33.189"
+      ]
+    },
+    {
+      "_comment": "========== GAME 21: Friday Night Funkin' - Shaggy Mod ==========",
+      "id": "fnfshaggymod",
+      "name": "Friday Night Funkin' - Shaggy Mod",
+      "description": "Shaggy, the most powerful being in the universe, has come to Friday Night Funkin'! Using 0.001% of his power, he sings against you to test your strength. The Mod contains 12 songs across multiple chapters including Where are you, Eruption, Kaio-ken, What's new, Blast, Super Saiyan, GOD EATER, Soothing Power, Thunderstorm, Dissasembler, Astral calamity, and Talladega. Are you ready to challenge him...?",
+      "price": 0,
+      "fileSize": "150 MB",
+      "screenshot": "UKymVs.png",
+      "tags": [
+        "mod",
+        "fnf",
+        "rhythm",
+        "music",
+        "fangame",
+        "singleplayer",
+        "indie",
+        "game"
+      ],
+      "releaseDate": "2026-08-31",
+      "downloads": 0,
+      "clicks": 1,
+      "totalStars": 0,
+      "totalVotes": 0,
+      "ratedIPs": []
+    },
+    {
+      "_comment": "========== GAME 22: Friday Night Funkin' ==========",
+      "id": "funkin-windows-64bit",
+      "name": "Friday Night Funkin'",
+      "description": "Uh oh! Your tryin to kiss ur hot girlfriend, but her MEAN and EVIL dad is trying to KILL you! He's an ex-rockstar, the only way to get to his heart? The power of music... WASD/ARROW KEYS is controls, - and + are volume control, 0 to Mute. It's basically like DDR, press arrow when arrow over other arrow. And uhhh don't die.",
+      "price": 0,
+      "fileSize": "200 MB",
+      "screenshot": "wGMbNL.png",
+      "tags": [
+        "rhythm",
+        "music",
+        "indie",
+        "singleplayer",
+        "game",
+        "fnf",
+        "newgrounds"
+      ],
+      "releaseDate": "2026-08-31",
+      "downloads": 1,
+      "clicks": 3,
+      "totalStars": 0,
+      "totalVotes": 0,
+      "ratedIPs": []
+    },
+    {
+      "_comment": "========== GAME 23: Hill Climb Racing ==========",
+      "id": "hill-climb-racing",
+      "name": "Hill Climb Racing",
+      "description": "Hill Climb Racing is a physics-based driving game where you control a car and navigate it through various terrains and obstacles. you can upgrade your vehicle, unlock new cars, and explore different environments while trying to achieve the highest score possible. The game features simple controls, addictive gameplay, and a variety of challenges that test your driving skills.",
+      "price": 0,
+      "fileSize": "133.6 MB",
+      "screenshot": "h3ridk.jpg",
+      "tags": [
+        "driving",
+        "physics",
+        "racing",
+        "simulation",
+        "challenge",
+        "multiplayer",
+        "singleplayer",
+        "indie",
+        "arcade"
+      ],
+      "releaseDate": "2026-08-31",
+      "downloads": 10,
+      "clicks": 17,
+      "totalStars": 15,
+      "totalVotes": 3,
+      "ratedIPs": [
+        "79.160.193.87",
+        "82.147.33.189",
+        "88.94.195.19"
+      ]
+    },
+    {
+      "_comment": "========== GAME 24: Angry Birds 2 ==========",
+      "id": "angry-birds-2",
+      "name": "Angry Birds 2",
+      "description": "Angry Birds 2 is the sequel to the popular physics-based puzzle game. Help the angry birds take down the green pigs and save their eggs! With new characters, levels, and exciting gameplay, you'll be flying through the skies in no time.",
+      "price": 0,
+      "fileSize": "1.1 GB",
+      "screenshot": "an9Ry.png",
+      "tags": [
+        "physics",
+        "puzzle",
+        "arcade",
+        "casual",
+        "mobile",
+        "strategy",
+        "indie",
+        "singleplayer"
+      ],
+      "releaseDate": "2026-09-01",
+      "downloads": 1,
+      "clicks": 2,
+      "totalStars": 5,
+      "totalVotes": 1,
+      "ratedIPs": [
+        "79.160.193.87"
+      ]
+    }
+  ]
+}
