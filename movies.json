@@ -1,0 +1,92 @@
+{
+  "movies": [
+    {
+      "id": "Michael",
+      "name": "Michael",
+      "description": "Michael is a 2026 biographical drama film that chronicles the extraordinary life and musical career of pop icon Michael Jackson",
+      "price": 0,
+      "fileSize": "2.03 GB",
+      "screenshot": "p29249904_v_h8_ac.jpg",
+      "vidsrc": "https://vidsrc.sbs/embed/movie/936075/",
+      "file": "Michael.mp4",
+      "tags": [
+        "Biography",
+        "Drama",
+        "Music",
+        "Michael Jackson",
+        "Pop Culture",
+        "Love",
+        "Entertainment",
+        "Iconic",
+        "Life Story",
+        "Music Industry",
+        "Fame",
+        "Legacy",
+        "Documentary"
+      ],
+      "releaseDate": "2026-04-24",
+      "downloads": 3,
+      "clicks": 67,
+      "totalStars": 4,
+      "totalVotes": 1,
+      "ratedIPs": [
+        "82.147.33.189"
+      ]
+    },
+    {
+      "id": "backrooms",
+      "name": "Backrooms",
+      "description": "Backrooms is a 2026 psychological sci-fi horror film directed by 20-year-old YouTube creator Kane Parsons in his feature film debut, based on his viral web series.",
+      "price": 0,
+      "fileSize": "N/A",
+      "screenshot": "rhGx6E3qRNMgj3i5su2oukNHwIQ.png",
+      "vidsrc": "https://vidsrc.sbs/embed/movie/1083381/",
+      "tags": [
+        "Horror",
+        "Thriller",
+        "Found Footage",
+        "Psychological Horror",
+        "Supernatural",
+        "Backrooms",
+        "Liminal Space",
+        "Creepy",
+        "Suspense",
+        "Indie",
+        "Survival"
+      ],
+      "releaseDate": "2026-09-08",
+      "downloads": 0,
+      "clicks": 14,
+      "totalStars": 0,
+      "totalVotes": 0,
+      "ratedIPs": []
+    },
+    {
+      "id": "knightfall",
+      "name": "Batman: Knightfall Part 1: Knightfall",
+      "description": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
+      "price": 0,
+      "fileSize": "N/A",
+      "screenshot": "1920.jpg",
+      "vidsrc": "https://vidsrc.sbs/embed/movie/1560520/",
+      "tags": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Science Fiction",
+        "Drama",
+        "Superhero",
+        "DC",
+        "Batman",
+        "Bane",
+        "Gotham"
+      ],
+      "releaseDate": "23-06-2026",
+      "downloads": 0,
+      "clicks": 4,
+      "totalStars": 0,
+      "totalVotes": 0,
+      "ratedIPs": []
+    }
+  ]
+}
