@@ -1,0 +1,19 @@
+{
+  "codes": [
+    {
+      "code": "VIP666",
+      "discount": 10,
+      "usesLeft": 94
+    },
+    {
+      "code": "MVPFREE777",
+      "discount": 100,
+      "usesLeft": 36
+    },
+    {
+      "code": "exclusive999",
+      "discount": 100,
+      "usesLeft": 999
+    }
+  ]
+}
