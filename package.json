@@ -1,0 +1,14 @@
+{
+  "name": "melozzy-games",
+  "version": "1.0.0",
+  "description": "Melozzy's personal game download hub",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.22.2",
+    "geoip-lite": "^2.0.3"
+  }
+}
